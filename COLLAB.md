@@ -1,6 +1,8 @@
 # Collaboration 
 
 Database
+-This helped me figure out how to log into sterns on vs code to check my work: https://code.visualstudio.com/docs/remote/ssh
+
 -Q&A: I used this to figure out how to decode non utf-8 compliant data. https://stackoverflow.com/questions/58015012/ignore-utf-8-decoding-errors-in-csv
 
 -Q&A: I used this to troubleshoot data writing. https://stackoverflow.com/questions/11652806/csv-write-skipping-lines-when-writing-to-csv 
