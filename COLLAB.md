@@ -1,6 +1,8 @@
 # Collaboration 
 
 Database
+
+-TO figure out changing my variables in the data base to text I used this: https://www.w3schools.com/sql/sql_datatypes.asp
 -This helped me figure out how to log into sterns on vs code to check my work: https://code.visualstudio.com/docs/remote/ssh
 
 -Q&A: I used this to figure out how to decode non utf-8 compliant data. https://stackoverflow.com/questions/58015012/ignore-utf-8-decoding-errors-in-csv
