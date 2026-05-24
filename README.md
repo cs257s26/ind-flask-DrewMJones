@@ -1,3 +1,14 @@
+# README: Individual database Project.
+
+## No instructions yet, I got stuck on the data cleaning for many hours. Thus my submission is absent the rest of the requirements.
+
+## Eventually I would have shaped out like this:
+\copy birds FROM 'birds_final.csv' DELIMITER ',' CSV 
+\copy reptiles FROM 'reptiles_final.csv' DELIMITER ',' CSV 
+\copy mammals FROM 'mammals_final.csv' DELIMITER ',' CSV 
+\copy insects FROM 'insects_final.csv' DELIMITER ',' CSV 
+\copy amphibians FROM 'amphibians_final.csv' DELIMITER ',' CSV 
+
 # README: Individual Flask project.
 
 ## Leaderboard Function:

@@ -1,5 +1,22 @@
 # Collaboration 
 
+Database
+-Q&A: I used this to figure out how to decode non utf-8 compliant data. https://stackoverflow.com/questions/58015012/ignore-utf-8-decoding-errors-in-csv
+
+-Q&A: I used this to troubleshoot data writing. https://stackoverflow.com/questions/11652806/csv-write-skipping-lines-when-writing-to-csv 
+
+-Tutorial: I used this to figure out how to create a new csv file. https://www.geeksforgeeks.org/python/delete-a-csv-column-in-python/ 
+
+-Q&A: I used this to figure out how to make my local branch identical to the remote. https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head 
+
+-Tutorial: I used this to figure out how encoding worked in Python with UTF-8. https://www.pythonmorsels.com/unicode-character-encodings-in-python/ 
+
+-Lab Assistent: Nathan Z assisted me in figuring out how to clean the data.
+
+
+
+
+--------------------------------------------------------------------------------
 -Geeksforgeeks flask app routing tutorial: I used this to understand how routing works: Published:24 Mar, 2026. https://www.geeksforgeeks.org/python/flask-app-routing/ 
 -Ella Viscondi Lab Assistent: Helped me to figure out how to get WSL working. 
 -Guide on installing Flask: To install Flask I used this tutorial: Published: Mar 5, 2023. https://dev.to/mursalfk/setup-flask-on-windows-system-using-vs-code-4p9j 
