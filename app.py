@@ -70,7 +70,7 @@ def species(city, radius = 5, top = 3):
 
 @app.errorhandler(404)
 def page_not_found(e):
-    """This routes a errant HTTP input to this error. It then outputs that the HTTP was entered incorrectly."""
+    """This routes a errant HTTP input to this error. It then outputs that the HTTP was entered incorrectly. """
 
     return "The URL input is incorrectly formatted, /city/city-name/prefered search radius/number of species members/ or /leaderboard/common name of animal/ is needed."
 
